@@ -6,7 +6,7 @@ class Contacts
     LOGIN_URL           = "https://my.screenname.aol.com/_cqr/login/login.psp"
     LOGIN_REFERER_URL   = "http://webmail.aol.com/"
     LOGIN_REFERER_PATH = "sitedomain=sns.webmail.aol.com&lang=en&locale=us&authLev=0&uitype=mini&loginId=&redirType=js&xchk=false"
-    AOL_NUM = "32976-111" # this seems to change each time they change the protocol
+    AOL_NUM = "33356-111" # this seems to change each time they change the protocol
     
     CONTACT_LIST_URL    = "http://mail.aol.com/#{AOL_NUM}/aol-6/en-us/Lite/ContactList.aspx?folder=Inbox&showUserFolders=False"
     CONTACT_LIST_CSV_URL = "http://mail.aol.com/#{AOL_NUM}/aol-6/en-us/Lite/ABExport.aspx?command=all"
