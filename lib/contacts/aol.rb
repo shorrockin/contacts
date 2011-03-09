@@ -150,5 +150,5 @@ class Contacts
     end
   end
  
-  TYPES[:aol] = Aol
+  #TYPES[:aol] = Aol
 end
